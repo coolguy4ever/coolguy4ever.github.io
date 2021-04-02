@@ -12,5 +12,5 @@ These are my favourites :
 
 [hi](https://www.swarmee.net/muffins/)
 
-http://oyster.ignimgs.com/mediawiki/apis.ign.com/the-legend-of-zelda-hd/7/74/Screen_Shot_2017-05-26_at_10.42.42_AM.png
+[botw stuff](http://oyster.ignimgs.com/mediawiki/apis.ign.com/the-legend-of-zelda-hd/7/74/Screen_Shot_2017-05-26_at_10.42.42_AM.png)
  
