@@ -20,3 +20,8 @@ the recipe is:
 - 4 bananas
 - on drangan sclal (for 30 mins)
 
+
+# how to beat windblight ganan
+
+![alt text](https://coolguy4ever.github.io/img/windblight-ganan.jpg)
+
