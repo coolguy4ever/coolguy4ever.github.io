@@ -10,8 +10,4 @@ Inline-style:
 ![alt text](https://coolguy4ever.github.io/img/blood-moon.jpg)
 
 
-
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=6xKbAGoFKFA"></a>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9UahmgriDg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
