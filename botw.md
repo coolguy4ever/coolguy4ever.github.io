@@ -17,6 +17,6 @@ Inline-style:
 ### how to make attack up food
 ![alt text](https://coolguy4ever.github.io/img/mighty-banana.jpg)
 the recipe is:
-- nn
-- njn
+- 4 bananas
+- on drangan sclal (for 30 mins)
 
