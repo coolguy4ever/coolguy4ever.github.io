@@ -21,7 +21,16 @@ the recipe is:
 - on drangan sclal (for 30 mins)
 
 
-# how to beat windblight ganan
+# how to beat windblight ganon
 
 ![alt text](https://coolguy4ever.github.io/img/windblight-ganan.jpg)
+
+1st phase
+3 bow or 5 bow
+30 bomb arrows
+
+2nd phase
+50 bomb arrows
+3 bow or 5 bow
+stacis +
 
