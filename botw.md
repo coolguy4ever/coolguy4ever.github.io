@@ -34,4 +34,6 @@ the recipe is:
 3 bow or 5 bow
 stacis +
 
+# evertide island
+
 ![alt text](https://coolguy4ever.github.io/img/evertide-island.jpg)
