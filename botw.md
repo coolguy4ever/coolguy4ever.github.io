@@ -1,6 +1,6 @@
-## Botw
+## BOTW
 
-This is my botw page
+This is my BOTW page
 
 Inline-style: 
 ![alt text](https://coolguy4ever.github.io/img/lyonel-mask.jpg)
@@ -14,26 +14,33 @@ Inline-style:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-F1PIjxPMuc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### how to make attack up food
+### How to make attack up food
 ![alt text](https://coolguy4ever.github.io/img/mighty-banana.jpg)
 the recipe is:
 - 4 bananas
-- on drangan sclal (for 30 mins)
+- on dragon scale (for 30 mins)
 
 
-# how to beat windblight ganon
+# How to beat Windblight Ganon
 
 ![alt text](https://coolguy4ever.github.io/img/windblight-ganan.jpg)
 
-1st phase
+1st phase:
 3 bow or 5 bow
 30 bomb arrows
 
-2nd phase
+2nd phase:
 50 bomb arrows
 3 bow or 5 bow
 stacis +
 
-# evertide island
+# Evertide Island glitch
 
 ![alt text](https://coolguy4ever.github.io/img/evertide-island.jpg)
+
+to perform this giltch you need to go to evertide island you need to:
+
+-go to evertide 
+- drop you wepons, shields and bows in the shallow water
+-after the sprit taks and you loss all your stuff take your wepons
+## waring peeps the giltch has to be presice or you will lose your weapons,shields and bows
