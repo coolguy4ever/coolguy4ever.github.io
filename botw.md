@@ -40,7 +40,7 @@ stacis +
 
 to perform this giltch you need to go to evertide island you need to:
 
--go to evertide 
+- go to evertide 
 - drop you wepons, shields and bows in the shallow water
--after the sprit taks and you loss all your stuff take your wepons
+- after the sprit taks and you loss all your stuff take your wepons
 ## waring peeps the giltch has to be presice or you will lose your weapons,shields and bows
