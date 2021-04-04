@@ -55,4 +55,10 @@ The stal horse a rode by skelotens and can be found at night
 ## Naydra
 ![alt text](https://coolguy4ever.github.io/img/dragon.jpg)
 
-Naydra is first found at the Spring of Wisdom at the peak of [[Mount Lanayru] corrupted by Malice. Follow it and use your arrows to free it of its corruption. After this, Naydra is found just north of Mount Lanayru in the Lanayru Bay appearing first around 12:00AM and heading down by around 6:00AM.
+Naydra is first found at the Spring of Wisdom at the peak of Mount Lanayru corrupted by Malice. Follow it and use your arrows to free it of its corruption. After this, Naydra is found just north of Mount Lanayru in the Lanayru Bay appearing first around 12:00AM and heading down by around 6:00AM.
+
+## champions power
+
+
+![alt text](https://coolguy4ever.github.io/img/revail.jpg)
+
