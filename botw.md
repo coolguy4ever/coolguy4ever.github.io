@@ -53,4 +53,4 @@ to perform this giltch you need to go to evertide island you need to:
 The stal horse a rode by skelotens and can be found at night
 
 ## Naydra
-![alt text](https://coolguy4ever.github.io/img/drangon.jpg)
+![alt text](https://coolguy4ever.github.io/img/dragon.jpg)
