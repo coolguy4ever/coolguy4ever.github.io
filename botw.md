@@ -62,3 +62,8 @@ Naydra is first found at the Spring of Wisdom at the peak of Mount Lanayru corru
 
 ![alt text](https://coolguy4ever.github.io/img/revali.jpg)
 
+ravlis gale makes a up draft to rech high placse 
+
+![alt text](https://coolguy4ever.github.io/img/urbosa.jpg)
+
+
