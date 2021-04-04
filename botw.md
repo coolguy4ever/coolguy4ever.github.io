@@ -67,3 +67,6 @@ ravlis gale makes a up draft to rech high placse
 ![alt text](https://coolguy4ever.github.io/img/daruk.jpg)
 
 
+daruks protction makes a shield around link and if a enamy hits the shield and your shield will no get damged
+
+
