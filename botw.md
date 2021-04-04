@@ -60,5 +60,5 @@ Naydra is first found at the Spring of Wisdom at the peak of Mount Lanayru corru
 ## champions power
 
 
-![alt text](https://coolguy4ever.github.io/img/revail.jpg)
+![alt text](https://coolguy4ever.github.io/img/revali.jpg)
 
