@@ -5,7 +5,7 @@ this is the repo for my website.
 
 These are my favourites :
 
-- Breath of the wild
+- [Breath of the wild](./botw)
 - minecraft
 - pokemon
 - mario
