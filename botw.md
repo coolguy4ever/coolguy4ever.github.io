@@ -72,6 +72,8 @@ Daruks protction makes a shield around link and if a enamy hits the shield and y
 
 
 
-![alt text](https://coolguy4ever.github.io/img/urbosa.jpg)
+![alt text](https://coolguy4ever.github.io/img/urbosa.jpg) 
 
+
+urbosas fury happens when you hold y.The attck will shock enamys nery by
 
