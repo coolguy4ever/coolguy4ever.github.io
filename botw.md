@@ -1,4 +1,4 @@
-## BOTW
+## BOTW (this is my favorite game)
 
 This is my BOTW page
 
