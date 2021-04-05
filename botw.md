@@ -50,24 +50,23 @@ to perform this giltch you need to go to evertide island you need to:
 
 ![alt text](https://coolguy4ever.github.io/img/skeloten-horse.jpg)
 
-The stal horse a rode by skelotens and can be found at night
+The stalhorse a rode by skelotens and can be found at night
 
 ## Naydra
 ![alt text](https://coolguy4ever.github.io/img/dragon.jpg)
 
-Naydra is first found at the Spring of Wisdom at the peak of Mount Lanayru corrupted by Malice. Follow it and use your arrows to free it of its corruption. After this, Naydra is found just north of Mount Lanayru in the Lanayru Bay appearing first around 12:00AM and heading down by around 6:00AM.
-
-## champions power
+Naydra is first found at the Spring of Wisdom at the peak of Mount Lanayru corrupted by Malice. Follow it and use your arrows to free it of its corruption. 
+## Champions power
 
 
 ![alt text](https://coolguy4ever.github.io/img/revali.jpg)
 
-ravlis gale makes a up draft to rech high placse 
+Revalis gale makes a up draft to reach high places 
 
 ![alt text](https://coolguy4ever.github.io/img/daruk.jpg)
 
 
-daruks protction makes a shield around link and if a enamy hits the shield and your shield will no get damged
+Daruks protction makes a shield around link and if a enamy hits the shield and your shield will no get damaged
 
 
 
