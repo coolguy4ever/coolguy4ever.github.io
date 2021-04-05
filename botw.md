@@ -2,7 +2,7 @@
 
 This is my BOTW page
 
-Inline-style: 
+link wearing a mask 
 ![alt text](https://coolguy4ever.github.io/img/lyonel-mask.jpg)
 
 
