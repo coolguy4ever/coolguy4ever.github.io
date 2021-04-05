@@ -2,7 +2,7 @@
 
 This is my BOTW page
 
-link wearing a mask 
+Link wearing a mask .
 ![alt text](https://coolguy4ever.github.io/img/lyonel-mask.jpg)
 
 
